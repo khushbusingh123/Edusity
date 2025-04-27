@@ -11,11 +11,15 @@ const About = () => {
         <img src={play_icon} alt="Play Icon" className='play-icon' />
       </div>
       <div className="about-right">
-        <h3>ABOUT UNIVERSITIES</h3>
+        <h3>ABOUT OUR COURSES</h3>
         <h2>NURTURING TOMORROW'S LEADERS TODAY</h2>
         <p>
-          Our universities are committed to providing a nurturing environment for the leaders of the future. With top-notch facilities and a focus on holistic development, we pave the way for success.
-        </p>
+        Unlock your potential with flexible learning.
+Gain real-world skills at your own pace.
+Your success story starts here.
+Explore, learn, and grow with us.
+Discover courses that match your passion.
+Turn your dreams into achievements.  </p> 
       </div>
     </div>
   );
